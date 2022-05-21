@@ -12,7 +12,7 @@ public class Fibonacci {
 
         System.out.print("Fibonacci Series of " + maxNumber + " numbers:");
 
-        var i = 1;
+        int i = 1;
         while (i <= maxNumber) {
             System.out.print(previousNumber + " ");
 
